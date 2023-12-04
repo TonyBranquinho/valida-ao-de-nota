@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Validaçao de nota\Validaçao de nota\bin\Debug\Validaçao de nota.exe.config
+C:\temp\ws-vs2019\Validaçao de nota\Validaçao de nota\bin\Debug\Validaçao de nota.exe
+C:\temp\ws-vs2019\Validaçao de nota\Validaçao de nota\bin\Debug\Validaçao de nota.pdb
+C:\temp\ws-vs2019\Validaçao de nota\Validaçao de nota\obj\Debug\Validaçao de nota.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Validaçao de nota\Validaçao de nota\obj\Debug\Validaçao de nota.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Validaçao de nota\Validaçao de nota\obj\Debug\Validaçao de nota.exe
+C:\temp\ws-vs2019\Validaçao de nota\Validaçao de nota\obj\Debug\Validaçao de nota.pdb
